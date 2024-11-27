@@ -1,9 +1,3 @@
-
----
-
-### DEPLOYMENT.md
-
-```markdown
 # Deployment Guide: To-Do List Application on DigitalOcean
 
 This guide outlines the steps to deploy the To-Do List Application using DigitalOcean's App Platform.
