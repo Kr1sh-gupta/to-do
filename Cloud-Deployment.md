@@ -33,14 +33,20 @@ This guide outlines the steps to deploy the To-Do List Application using Digital
 - **Auto-deploy**: Enable auto-deploy to redeploy the app automatically whenever new changes are pushed to the repository.
 
 ---
-## Screenshots
+## Screenshots  
 
-![Configuration Screen](https://i.ibb.co/RCpBDdH/Screenshot-2024-11-27-115414.png)
-*Selection of Repository*
-![Configuration Screen](https://i.ibb.co/tMrGb2k/Screenshot-2024-11-27-115830.png)
-*Successfully Deployed*
-![Configuration Screen](https://i.ibb.co/YPNw5zQ/Screenshot-2024-11-27-115839.png)
-*Browser Screen*
+### Repository Selection  
+![Selection of Repository](https://i.ibb.co/RCpBDdH/Screenshot-2024-11-27-115414.png)  
+This screen showcases the process of selecting a repository for deployment.  
+
+### Successful Deployment  
+![Successfully Deployed](https://i.ibb.co/tMrGb2k/Screenshot-2024-11-27-115830.png)  
+The application has been deployed successfully, as indicated in this confirmation screen.  
+
+### Browser View  
+![Browser Screen](https://i.ibb.co/YPNw5zQ/Screenshot-2024-11-27-115839.png)  
+The deployed application is accessible and fully functional in the browser.  
+
 
 
 
