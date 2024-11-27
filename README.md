@@ -20,10 +20,10 @@ Ensure you have the following installed on your system:
    ```cmd
    npm install
 
-3.Start the application:
+3. Start the application:
    ```cmd
    npm install
-   ```
+   
 Open http://localhost:3000 in your browser to view the app.
 
 Features
