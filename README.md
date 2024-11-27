@@ -45,6 +45,9 @@ Ensure you have the following installed on your system:
 - **User-Friendly UI**: Enjoy a clean, responsive, and intuitive interface.
 
 ---
+### Browser View  
+![Browser Screen](https://i.ibb.co/YPNw5zQ/Screenshot-2024-11-27-115839.png)  
+The deployed application is accessible and fully functional in the browser.  
 
 ## Deployment
 
