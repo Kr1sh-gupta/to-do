@@ -26,7 +26,7 @@ Ensure you have the following installed on your system:
    
 Open http://localhost:3000 in your browser to view the app.
 
-Features
+Features:
  ● Add new tasks to your to-do list.
  ● Mark tasks as completed.
  ● Remove tasks from the list.
