@@ -38,6 +38,10 @@ This guide outlines the steps to deploy the To-Do List Application using Digital
 ![Configuration Screen](https://i.ibb.co/RCpBDdH/Screenshot-2024-11-27-115414.png)
 *Selection of Repository*
 ![Configuration Screen](https://i.ibb.co/tMrGb2k/Screenshot-2024-11-27-115830.png)
+*Successfully Deployed*
+![Configuration Screen](https://i.ibb.co/YPNw5zQ/Screenshot-2024-11-27-115839.png)
+*Browser Screen*
+
 
 
 ## Links
