@@ -20,7 +20,7 @@ Ensure you have the following installed on your system:
    ```cmd
    npm install
 
-3.Start the application
+3.Start the application:
    ```cmd
    npm start
    ```
