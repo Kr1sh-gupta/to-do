@@ -22,7 +22,7 @@ Ensure you have the following installed on your system:
 
 3.Start the application:
    ```cmd
-   npm start
+   npm install
    ```
 Open http://localhost:3000 in your browser to view the app.
 
