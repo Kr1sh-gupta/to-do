@@ -50,4 +50,4 @@ Ensure you have the following installed on your system:
 
 This application is deployed and accessible at: **[https://plankton-app-dhwe6.ondigitalocean.app/]**
 
-For instructions on how it was deployed to DigitalOcean, refer to the [deployment guide](./DEPLOYMENT.md).
+For instructions on how it was deployed to DigitalOcean, refer to the [deployment guide](./Cloud-Deployment.md).
