@@ -2,13 +2,17 @@
 
 This project is a simple and functional **To-Do List Application** built with React. It allows users to add, remove, and manage their daily tasks.
 
+---
+
 ## Getting Started
 
 ### Prerequisites
 
 Ensure you have the following installed on your system:
-- Node.js (v16 or above recommended)
-- npm (comes with Node.js)
+- **Node.js** (v16 or above recommended)
+- **npm** (comes with Node.js)
+
+---
 
 ### Installation
 
@@ -16,22 +20,34 @@ Ensure you have the following installed on your system:
    ```bash
    git clone <repository_url>
    cd <repository_name>
+   ```
+
 2. Install dependencies:
-   ```cmd
+   ```bash
    npm install
+   ```
 
 3. Start the application:
-   ```cmd
-   npm install
-   
-Open http://localhost:3000 in your browser to view the app.
+   ```bash
+   npm start
+   ```
 
-Features
-Add new tasks to your to-do list.
-Mark tasks as completed.
-Remove tasks from the list.
-Simple and intuitive UI.
+4. Open the app:
+   Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
-This application is deployed and accessible at: [Deployment URL]
+---
 
-For instructions on how it was deployed to DigitalOcean, refer to the deployment guide.
+## Features
+
+- **Add Tasks**: Easily add new tasks to your to-do list.
+- **Mark as Completed**: Track progress by marking tasks as completed.
+- **Delete Tasks**: Remove tasks from the list with a simple click.
+- **User-Friendly UI**: Enjoy a clean, responsive, and intuitive interface.
+
+---
+
+## Deployment
+
+This application is deployed and accessible at: **[Deployment URL]**
+
+For instructions on how it was deployed to DigitalOcean, refer to the [deployment guide](./DEPLOYMENT.md).
