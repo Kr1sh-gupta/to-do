@@ -33,6 +33,12 @@ This guide outlines the steps to deploy the To-Do List Application using Digital
 - **Auto-deploy**: Enable auto-deploy to redeploy the app automatically whenever new changes are pushed to the repository.
 
 ---
+## Screenshots
+
+![Configuration Screen](https://i.ibb.co/RCpBDdH/Screenshot-2024-11-27-115414.png)
+*Selection of Repository*
+![Configuration Screen](https://i.ibb.co/tMrGb2k/Screenshot-2024-11-27-115830.png)
+
 
 ## Links
 - DigitalOcean App Platform: [https://www.digitalocean.com/products/app-platform](https://www.digitalocean.com/products/app-platform)
